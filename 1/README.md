@@ -57,7 +57,7 @@ const desc = (move) ?
 "Go to game start"
 ```
 
+###### ReactJS.org tic-tac-toe tutorial improvements No.1
+
 links: |[1](../1)|[2](../2)|[3](../3)|[4](../4)|[5](../5)|[6](../6)|
 ---|---|---|---|---|---|---|
-
-###### ReactJS.org tic-tac-toe tutorial improvements No.1
