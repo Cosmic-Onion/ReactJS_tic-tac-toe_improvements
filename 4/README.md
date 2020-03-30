@@ -40,5 +40,6 @@ Now to have this take effect, edit the ordered list so that it's numbers and the
 (if you notice other differences from the last example, you're very observent well done! These are due to me moving on from this question and then overwriting with changes that aren't necessary when I came back to it.)
 
 links: |[1](../1)|[2](../2)|[3](../3)|[4](../4)|[5](../5)|[6](../6)|
+---|---|---|---|---|---|---|
 
 ###### ReactJS.org tic-tac-toe tutorial improvements No.4

@@ -29,5 +29,6 @@ Our index.css file needs updating, add this to the end of the css file so it kno
 ```
 
 links: |[1](../1)|[2](../2)|[3](../3)|[4](../4)|[5](../5)|[6](../6)|
+---|---|---|---|---|---|---|
 
 ###### ReactJS.org tic-tac-toe tutorial improvements No.2

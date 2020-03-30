@@ -62,5 +62,6 @@ As we are relying on the css file to change the colour we should add a class of 
 ```
 
 links: |[1](../1)|[2](../2)|[3](../3)|[4](../4)|[5](../5)|[6](../6)|
+---|---|---|---|---|---|---|
 
 ###### ReactJS.org tic-tac-toe tutorial improvements No.5
